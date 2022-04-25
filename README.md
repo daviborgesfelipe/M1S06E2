@@ -1,6 +1,9 @@
 - Crie um uma página html contendo:
+
 -- 2 inputs do tipo number;
+
 -- 1 select com as options Somar, Subtrair, Dividir, Multiplicar
+
 -- 1 button com o texto Calcular
 
 - Crie uma função JavaScript para efetuar as operações:
